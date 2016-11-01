@@ -1,0 +1,34 @@
+---
+title:  "6060 Quiz 3"
+author: "Veesta Mavandadi"
+output:
+  pdf_document:
+    number_sections: yes
+    toc_depth: 3
+    
+---
+# Question 1 
+
+The correlation between agreeableness and conscientiousness is r=-.028 and the relationship between extraversion and openness is r=-.018. The agreeableness-conscientousness correlation is not meaningfully different than the extraversion-openness correlation, $\Delta r$ = -.01, 95% CI[-.11,.09], p=.85.
+
+#Question 2
+
+The correlation between agreeableness and conscientiousness is r=-.03 and the relationship between agreeableness and extraversion is r=.05. The agreeableness-conscientousness correlation is not meaningfully different than the agreeableness-extraversion correlation $\Delta r$ = -.08, 95% CI[-.18, .024], p=.13. 
+
+#Question 3
+When looking at the correlation between agreeableness and extraversion for each gender specifically, the correlation for men is r=.043 and the correlation for women is r=.025. However, the difference between men and women is not meaningfully different when examining the relationship between agreeableness and extraversion, $\Delta r$ = .017, 95% CI[-.13, .17], p=.82. 
+
+#Question 4
+The rating-raises correlation (r=.59), is stronger than the rating-critical correlation (r=.16), $\Delta r$=.43, 95% CI[.067, .79], p=.023.
+
+#Question 5 
+
+The rating-raises correlation (r=.59), is stronger than the complaints-critical correlation (r=.19), $\Delta r$=.4, 95% CI[.015, .78], p=.05.
+
+#Question 6
+
+A study utilizing a sample of N=3000, found a correlation between rating-raises (r=.03) that was different than the correlation found by a study utilizing a smaller sample of N=30 (r=.59), $\Delta r$=.56, 95% CI[.26,.76]. One can conclude that the two correlations between rating-raises differ across the two studies and did not come from the same population.  
+
+#Question 7
+
+The study with N=3000 is larger and likely more informative than the sample with only N=30. When the sample size is larger, the confidence interval is more precise and is a better estimate of the true population value. As such, the plausible range of the true population correlation between rating and raises is between CI 95%[.26, .76]. Based on this information, one can conclude that there is likely a moderate, positive correlation between the ratings and raises variables. However, further studies are encouraged so a meta analysis can be done to make a more confident conclusion about the true relationship. 
